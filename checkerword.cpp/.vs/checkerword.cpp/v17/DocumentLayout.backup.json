@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\checkerword.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35767CDB-814E-4F1B-9681-2435D8D6A705}|checkerword.cpp\\checkerword.cpp.vcxproj|C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35767CDB-814E-4F1B-9681-2435D8D6A705}|checkerword.cpp\\checkerword.cpp.vcxproj|solutionrelative:checkerword.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35767CDB-814E-4F1B-9681-2435D8D6A705}|checkerword.cpp\\checkerword.cpp.vcxproj|C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35767CDB-814E-4F1B-9681-2435D8D6A705}|checkerword.cpp\\checkerword.cpp.vcxproj|solutionrelative:checkerword.cpp\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\text.txt",
+              "RelativeDocumentMoniker": "checkerword.cpp\\text.txt",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\text.txt",
+              "RelativeToolTip": "checkerword.cpp\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-08T09:52:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\main.cpp",
+              "RelativeDocumentMoniker": "checkerword.cpp\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\checkerword.cpp\\checkerword.cpp\\main.cpp",
+              "RelativeToolTip": "checkerword.cpp\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T09:51:25.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
