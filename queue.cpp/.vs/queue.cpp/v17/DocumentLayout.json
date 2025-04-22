@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\queue.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9853C6-965C-4331-B1AF-AE002C8D6F84}|queue.cpp\\queue.cpp.vcxproj|C:\\Users\\admin\\source\\repos\\queue.cpp\\queue.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9853C6-965C-4331-B1AF-AE002C8D6F84}|queue.cpp\\queue.cpp.vcxproj|solutionrelative:queue.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\queue.cpp\\queue.cpp\\main.cpp",
+              "RelativeDocumentMoniker": "queue.cpp\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\queue.cpp\\queue.cpp\\main.cpp",
+              "RelativeToolTip": "queue.cpp\\main.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T09:37:58.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
